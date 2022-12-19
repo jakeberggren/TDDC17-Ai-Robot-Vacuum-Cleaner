@@ -12,7 +12,7 @@ This repository contains lab assigments completed during the course TDDC17 - Art
 
 ### Lab 2 - Search Algorithms
 
-Lab 2 implements breadth- and depth first searches in order for a robot vacuum agent to find its way through a maze. The aim of the lab was to understand the strengths and weaknesses of different search algorithms which are often used in Artifical Intelligence applications.
+[Lab 2](https://github.com/jakeberggren/TDDC17-Artificial-Intelligence/tree/main/lab2) implements breadth- and depth first searches in order for a robot vacuum agent to find its way through a maze. The aim of the lab was to understand the strengths and weaknesses of different search algorithms which are often used in Artifical Intelligence applications.
 
 <div align="center"><img src="gif/breadthfirst.gif" width="300"/> <img src="gif/depthfirst.gif" width="300"/></div>
 
@@ -20,4 +20,6 @@ Lab 2 implements breadth- and depth first searches in order for a robot vacuum a
 
 ### Lab 4 - Q-learning Rocket
 
+[Lab 4](https://github.com/jakeberggren/TDDC17-Artificial-Intelligence/tree/main/lab4) introduces reinforcement learning by implementing a Q-learning algorithm which teaches a rocket to hover. The solution uses a classical Q-learning table but the same algorithm is often used together with neural networks to in more advanced AI applications as well. The rocket is able to learn itself to hover in about 200-300k iterations.
 
+<div align="center"><img src="gif/rocket1.gif" width="300"/> <img src="gif/rocket2.gif" width="300"/></div>
