@@ -14,6 +14,8 @@ This repository contains lab assigments completed during the course TDDC17 - Art
 
 Lab 2 implements breadth- and depth first searches in order for a robot vacuum agent to find its way through a maze. The aim of the lab was to understand the strengths and weaknesses of different search algorithms which are often used in Artifical Intelligence applications.
 
+<div align="center"><img src="gif/breadthfirst.gif" width="300"/> <img src="gif/depthfirst.gif" width="300"/></div>
+
 #
 
 ### Lab 4 - Q-learning Rocket
